@@ -1,5 +1,5 @@
 -- @description Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.
--- @author Xavier "Afrodiaq" Oshinowo
+-- @author Xavier 'Afrodiaq' Oshinowo
 -- @version 1.0
 -- @about -
 --   Lets you set the gap between files, choose Single Track or
