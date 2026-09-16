@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Scripts" commit="88886d83efcc41053b84958bd5e26344d4b0d253">
-  <category name="Example">
+<index version="1" name="Afrodiaq's Reaper Scripts" commit="9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868">
+  <category name="Scripts">
     <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -12,8 +12,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier &quot;Afrodiaq&quot; Oshinowo" time="2026-09-16T16:40:44Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
+      <version name="1.0" author="Xavier &quot;Afrodiaq&quot; Oshinowo" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
       </version>
     </reapack>
     <reapack name="Afrodiaq - Region Render Controller.lua" type="script" desc="Grid-based popup for REAPER's region render matrix">
@@ -26,8 +26,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:40:44Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Region%20Render%20Controller.lua</source>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Region%20Render%20Controller.lua</source>
       </version>
     </reapack>
     <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
@@ -40,8 +40,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:40:44Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
     <reapack name="Afrodiaq - Trim Right Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim right edge of item under mouse cursor to edit cursor position and move region end if necessary">
@@ -54,8 +54,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:40:44Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
     <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
@@ -68,8 +68,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier" time="2026-09-16T16:40:44Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
+      <version name="1.0" author="Xavier" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
       </version>
     </reapack>
   </category>
