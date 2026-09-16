@@ -1,8 +1,7 @@
 @description Trim right edge of item under mouse cursor 
 @version 1.0
 @author Xavier 'Afrodiaq' Oshinowo
-@about 
-
+@about
 -- This script allows you to move the region to your edit cursor after trimming an item on the right edge.
 -- Moves edit cursor position and move region end if necessary
 

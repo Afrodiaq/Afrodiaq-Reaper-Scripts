@@ -1,7 +1,8 @@
 @description Region Render Controller
 @version 1.0
 @author Xavier 'Afrodiaq' Oshinowo
-@about This script allows you to control the region render matrix without manually using it. Can search for the regions by name, filter by region number.
+@about
+--This script allows you to control the region render matrix without manually using it. Can search for the regions by name, filter by region number.
 
 -- ---------- palette (from user-provided swatch) ----------
 local PAL = {

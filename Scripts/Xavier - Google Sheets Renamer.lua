@@ -1,7 +1,9 @@
 @description Create Clipboard Region and Rename Item
 @version 1.0
 @author Xavier 'Afrodiaq' Oshinowo
-@about This script renames the selected media item and creates a region with the clipboard content.-- Requires SWS Extension for CF_GetClipboard()
+@about 
+--This script renames the selected media item and creates a region with the clipboard content.
+-- Requires SWS Extension for CF_GetClipboard()
 
 local clipboard = reaper.CF_GetClipboard()
 
