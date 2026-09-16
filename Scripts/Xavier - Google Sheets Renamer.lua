@@ -1,4 +1,4 @@
-@description Rename selected media item and create a region with the clipboard content
+@description Create Clipboard Region and Rename Item
 @version 1.0
 @author Xavier 'Afrodiaq' Oshinowo
 @about This script renames the selected media item and creates a region with the clipboard content.-- Requires SWS Extension for CF_GetClipboard()

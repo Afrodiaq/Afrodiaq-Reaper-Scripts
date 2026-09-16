@@ -1,7 +1,8 @@
--- @description Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.
+-- @description Batch Importer 
 -- @author Xavier 'Afrodiaq' Oshinowo
 -- @version 1.0
 -- @about -
+--   Batch-imports an audio library folder into the current project.
 --   Lets you set the gap between files, choose Single Track or
 --   Track Per Folder layout, and optionally drop folder markers
 --   and/or regions around each imported batch.
