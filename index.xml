@@ -1,23 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Scripts" commit="9d9d7b0952670ab10f3daab1754e6422c7b542f2">
+<index version="1" name="Reaper Scripts" commit="88886d83efcc41053b84958bd5e26344d4b0d253">
   <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
+    <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Lets you set the gap between files, choose Single Track or Track Per Folder layout, and optionally drop folder markers and/or regions around each imported batch.\par}
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      <version name="1.0" author="Xavier &quot;Afrodiaq&quot; Oshinowo" time="2026-09-16T16:40:44Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Region Render Controller.lua" type="script" desc="Grid-based popup for REAPER's region render matrix">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to control the region render matrix without manually using it. Can search for the regions by name, filter by region number.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:40:44Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Region%20Render%20Controller.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the left edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:40:44Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Trim Right Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim right edge of item under mouse cursor to edit cursor position and move region end if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the right edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:40:44Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script renames the selected media item and creates a region with the clipboard content.-- Requires SWS Extension for CF_GetClipboard()\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier" time="2026-09-16T16:40:44Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/88886d83efcc41053b84958bd5e26344d4b0d253/Example/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
       </version>
     </reapack>
   </category>
