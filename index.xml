@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Afrodiaq's Reaper Scripts" commit="b1bc51757bf5525ed9a7c4dc784fdd4cd84c27ca">
+<index version="1" name="Afrodiaq's Reaper Scripts" commit="91ece01e73f918b0108cb8939847533edf262da8">
   <category name="Scripts">
-    <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
+    <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Batch Importer">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \sa180\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Lets you set the gap between files, choose Single Track or Track Per Folder layout, and optionally drop folder markers and/or regions around each imported batch.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Batch-imports an audio library folder into the current project. Lets you set the gap between files, choose Single Track or Track Per Folder layout, and optionally drop folder markers and/or regions around each imported batch.\par}
 }
 ]]></description>
       </metadata>
       <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T17:02:11Z">
         <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/b1bc51757bf5525ed9a7c4dc784fdd4cd84c27ca/Scripts/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Region Render Controller.lua" type="script" desc="Region Render Controller">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to control the region render matrix without manually using it. Can search for the regions by name, filter by region number.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T17:28:46Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/91ece01e73f918b0108cb8939847533edf262da8/Scripts/Afrodiaq%20-%20Region%20Render%20Controller.lua</source>
       </version>
     </reapack>
     <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
@@ -115,7 +129,7 @@
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
-    <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
+    <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Create Clipboard Region and Rename Item">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
