@@ -54,7 +54,7 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:43:35Z">
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
