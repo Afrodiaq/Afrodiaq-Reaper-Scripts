@@ -12,7 +12,7 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier &quot;Afrodiaq&quot; Oshinowo" time="2026-09-16T16:43:35Z">
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
       </version>
     </reapack>
@@ -40,7 +40,7 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Afrodiaq" time="2026-09-16T16:43:35Z">
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
@@ -68,7 +68,7 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier" time="2026-09-16T16:43:35Z">
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
       </version>
     </reapack>
