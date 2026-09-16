@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Afrodiaq's Reaper Scripts" commit="9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868">
+<index version="1" name="Afrodiaq's Reaper Scripts" commit="b1bc51757bf5525ed9a7c4dc784fdd4cd84c27ca">
   <category name="Scripts">
+    <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab \sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Lets you set the gap between files, choose Single Track or Track Per Folder layout, and optionally drop folder markers and/or regions around each imported batch.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T17:02:11Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/b1bc51757bf5525ed9a7c4dc784fdd4cd84c27ca/Scripts/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Trim Left Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim left edge of item under mouse cursor to edit cursor position and move region start if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the left edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:56:38Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/074ee1ea971e07a679c0c53bd75de7666734e71d/Scripts/Afrodiaq%20-%20Trim%20Left%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Afrodiaq - Trim Right Edge Under Mouse to Edit Cursor.lua" type="script" desc="Trim right edge of item under mouse cursor to edit cursor position and move region end if necessary">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script allows you to move the region to your edit cursor after trimming an item on the right edge.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:56:38Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/074ee1ea971e07a679c0c53bd75de7666734e71d/Scripts/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
     <reapack name="Xavier 'Afrodiaq' Oshinowo - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -14,6 +57,20 @@
       </metadata>
       <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Audio%20Library%20Importer.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Xavier 'Afrodiaq' Oshinowo - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script renames the selected media item and creates a region with the clipboard content.-- Requires SWS Extension for CF_GetClipboard()\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
+        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
       </version>
     </reapack>
     <reapack name="Xavier 'Afrodiaq' Oshinowo - Region Render Controller.lua" type="script" desc="Grid-based popup for REAPER's region render matrix">
@@ -58,7 +115,7 @@
         <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Afrodiaq%20-%20Trim%20Right%20Edge%20Under%20Mouse%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
-    <reapack name="Xavier 'Afrodiaq' Oshinowo - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
+    <reapack name="Xavier - Google Sheets Renamer.lua" type="script" desc="Rename selected media item and create a region with the clipboard content">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -68,8 +125,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:43:35Z">
-        <source main="main">https://github.com/Afrodiaq/Reaper-Scripts/raw/9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868/Scripts/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
+      <version name="1.0" author="Xavier 'Afrodiaq' Oshinowo" time="2026-09-16T16:56:38Z">
+        <source main="main">https://github.com/Afrodiaq/Afrodiaq-Reaper-Scripts/raw/074ee1ea971e07a679c0c53bd75de7666734e71d/Scripts/Xavier%20-%20Google%20Sheets%20Renamer.lua</source>
       </version>
     </reapack>
   </category>
