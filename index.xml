@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Scripts" commit="9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868">
+<index version="1" name="Afrodiaq's Reaper Scripts" commit="9ab9ab4a6604c0669e0ae63cdc747f8f1b5ed868">
   <category name="Scripts">
     <reapack name="Afrodiaq - Audio Library Importer.lua" type="script" desc="Afrodiaq's Audio Library Importer that batch-imports an audio library folder into the current project.">
       <metadata>
